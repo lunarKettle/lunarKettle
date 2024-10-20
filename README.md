@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I'm Evgeny, a Backend Developer
+## I work on GoLang
+## You can contact me via Telegram: t.me/lunarKettle
 
 <!--
 **lunarKettle/lunarKettle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
